@@ -26,7 +26,7 @@ OFFERINGS WILL BE REFERRED TO AS “THE SOFTWARE”.
 
 <h3>TERMS</h3>
 
-1. Disclaimer and Limited Warranty:
+Disclaimer and Limited Warranty:
 THE SOFTWARE AND DOCUMENTATION ARE PROVIDED TO YOU “AS IS” AND TO
 THE EXTENT AUTHORIZED BY LAW, REPAIRTECH, INC MAKES NO
 REPRESENTATIONS OR WARRANTIES, EITHER EXPRESS OR IMPLIED,
@@ -69,7 +69,7 @@ d) You will not use the Software for any purpose as could result in injury to
 people, property, or economic loss. You specifically agree not to use it in the
 aviation, hospital, defense, or nuclear power industries.
 
-2. Software License
+Software License
 (1) In connection with this Agreement and subject to the restrictions set forth herein,
 REPAIRTECH, INC hereby grants to You, a fully-paid-up , limited, non-exclusive, nontransferable
 license (i) to install the Software solely and exclusively on Devices that You have the legal rights to control 
@@ -107,7 +107,7 @@ copyright, the marking of other industrial property rights or serial numbers and
 features that serve to identify the Software. The removal of copy protection or similar
 protective routines is not allowed.
 
-3. TERM
+TERM
 (1) The term of this agreement shall commence upon Your first use of the Software
 or acceptance of the terms and conditions of this EULA , whichever occurs first, and
 shall terminate upon the earlier of (i) lapse of the license according to the description of
@@ -117,9 +117,11 @@ notice to You by REPAIRTECH.
 (2) Upon any expiration or termination of this Agreement, the rights and licenses
 granted to You under this agreement shall immediately terminate, and You shall
 immediately cease using the Software.
-4. PRICING. Subscription prices and all other terms of the license may be changed by
+
+PRICING. Subscription prices and all other terms of the license may be changed by
 REPAIRTECH Inc., upon 30 days email notice to You at any time.
-5. Security Features.
+
+Security Features.
 WARNING: The software contains security features that contact REPAIRTECH, INC. over the
 internet upon each launch, and supply to REPAIRTECH information on the identity of the
 registered user, CPU serial number being applied to, and other information as REPAIRTECH
@@ -130,7 +132,8 @@ Software contains features which will allow it to run on only the allowed number
 or permitted set of registered CPUS, and/or by maximum allowed number of simultaneous
 users. You agree not to attempt to disable or circumvent the above or any other security
 features contained in the Software.
-6. No Support or Maintenance.
+
+No Support or Maintenance.
 You acknowledge that You will not be entitled to any training or technical support from
 REPAIRTECH or its staff, other than online support as REPAIRTECH may from time to time, but
 is not obligated to, offer. You acknowledge that REPAIRTECH undertakes no warrantee or other
@@ -140,7 +143,7 @@ other software and hardware products owned by others and that REPAIRTECH underta
 warrantee or other obligation whatsoever or maintain the usability or operability of the Software
 with future changes in any particular hardware platform, operating system, or other software.
 
-7 Limitation of Liability
+Limitation of Liability
 (1) UNDER NO CIRCUMSTANCES SHALL REPAIRTECH, INC BE LIABLE TO YOU
 OR TO ANY OTHER PERSON FOR DAMAGES FROM LOST PROFITS, LOSS OF
 GOODWILL, OR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL
@@ -153,7 +156,8 @@ DAMAGES.
 (2) The foregoing limitations of liability also apply in regard to all REPAIRTECH,
 INC's representatives, including but not limited to its directors, legal representatives,
 employees and other vicarious agents.
-8. Governing Law and Venue
+
+Governing Law and Venue
 This License Agreement shall be deemed to be entered into in California, U.S.A, and
 shall be governed by and construed in accordance with the laws of the State of California
 as applied to transactions taking place wholly within California between California
@@ -163,7 +167,7 @@ jurisdiction of the Superior Court of San Luis Obispo, California, U.S.A, respec
 and all proceedings to enforce or construe this License Agreement, which are brought by
 REPAIRTECH or by you.
 
-9. Miscellaneous
+Miscellaneous
 (1) This EULA sets forth all of Your rights to use the Software and makes up the
 entire agreement between You and REPAIRTECH, INC. This EULA supersedes any
 other communications, representations or advertising relating to the Software.
@@ -178,7 +182,7 @@ shall not limit or otherwise affect the construction or interpretation of this E
 (6) You may not assign Your rights under this EULA without the express written
 permission of REPAIRTECH, INC.
 
-10. Definitions
+Definitions
 (1) REPAIRTECH, INC - means REPAIRTECH, INC, a Delaware Corporation doing
 business in California as Repairtech Solutions.
 (2) The Software - TechUSB, TechWARU, TechPortal and all other products offered

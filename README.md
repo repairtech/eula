@@ -1,4 +1,4 @@
-By signing up for a TechSuite Account, you (or if the end-user is a corporation or
+By signing up for either a TechSuite Account or Kabuto Account, you (or if the end-user is a corporation or
 other legal entity, that entity) agree with REPAIRTECH, INC. as set forth below, with the same
 legal and binding effect as if you had signed a copy of this Agreement printed on paper and
 returned it to REPAIRTECH, INC.. If you do not agree, you are not authorized to
@@ -20,8 +20,8 @@ BUTTON, BY LOADING THE SOFTWARE OR BY OTHERWISE INDICATING ASSENT, YOU
 ACCEPT THIS EULA AND THIS EULA WILL BECOME A LEGAL AND ENFORCEABLE
 CONTRACT BETWEEN REPAIRTECH, INC AND YOU. IF YOU DO NOT AGREE TO THESE
 PROVISIONS, THEN DO NOT DOWNLOAD OR USE TECHUSB, TECHPORTAL,
-TECHWARU, OR ANY OF OUR OTHER PRODUCT OFFERINGS.
-FROM HERE ON, TECHUSB, TECHWARU, TECHPORTAL, AND ALL OTHER PRODUCT
+TECHWARU, KABUTO OR ANY OF OUR OTHER PRODUCT OFFERINGS.
+FROM HERE ON, TECHUSB, TECHWARU, TECHPORTAL, KABUTO AND ALL OTHER PRODUCT
 OFFERINGS WILL BE REFERRED TO AS “THE SOFTWARE”.
 <br/>
 <h3>TERMS</h3>

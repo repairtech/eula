@@ -19,9 +19,8 @@ ACCEPT ALL OF THE PROVISIONS OF THIS EULA. BY CLICKING THE “I AGREE” OR “Y
 BUTTON, BY LOADING THE SOFTWARE OR BY OTHERWISE INDICATING ASSENT, YOU
 ACCEPT THIS EULA AND THIS EULA WILL BECOME A LEGAL AND ENFORCEABLE
 CONTRACT BETWEEN REPAIRTECH, INC AND YOU. IF YOU DO NOT AGREE TO THESE
-PROVISIONS, THEN DO NOT DOWNLOAD OR USE TECHUSB, TECHPORTAL,
-TECHWARU, KABUTO OR ANY OF OUR OTHER PRODUCT OFFERINGS.
-FROM HERE ON, TECHUSB, TECHWARU, TECHPORTAL, KABUTO AND ALL OTHER PRODUCT
+PROVISIONS, THEN DO NOT DOWNLOAD OR USE TECHSUITE, KABUTO OR ANY OF OUR OTHER PRODUCT OFFERINGS.
+FROM HERE ON, TECHSUITE AND KABUTO AND ALL OTHER PRODUCT
 OFFERINGS WILL BE REFERRED TO AS “THE SOFTWARE”.
 <br/>
 <h3>TERMS</h3>
@@ -186,7 +185,7 @@ permission of REPAIRTECH, INC.<br/>
 <b>Definitions</b><br/>
 (1) REPAIRTECH, INC - means REPAIRTECH, INC, a Delaware Corporation doing
 business in California as Repairtech Solutions.<br/>
-(2) The Software - TechUSB, TechWARU, TechPortal and all other products offered
+(2) The Software - TechSuite, Kabuto, and all other products offered
 by REPAIRTECH, INC. The Software includes (i) any and all Updates and Upgrades
 thereto that REPAIRTECH, INC makes available to You and (ii) any and all
 accompanying Documentation and (iii) any and all accompanying services provided by

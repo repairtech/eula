@@ -163,7 +163,7 @@ shall be governed by and construed in accordance with the laws of the State of C
 as applied to transactions taking place wholly within California between California
 residents, without reference to its conflicts-of-laws rules, regardless of where you actually
 live or use the Software, or where you purchased or ordered it. You hereby consent to the
-jurisdiction of the Superior Court of San Luis Obispo, California, U.S.A, respecting any
+jurisdiction of the Superior Court of San Jose, California, U.S.A, respecting any
 and all proceedings to enforce or construe this License Agreement, which are brought by
 REPAIRTECH or by you.
 <br/><br/>

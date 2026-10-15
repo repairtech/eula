@@ -1,3 +1,5 @@
+> **This document has moved.** The current TechSuite Terms of Service are at https://www.repairtechsolutions.com/legal/techsuite-eula/. This copy is an archive of the version last updated September 4, 2025. It no longer applies.
+
 # TechSuite End User License Agreement (EULA)
 
 _Last Updated: September 4, 2025_
